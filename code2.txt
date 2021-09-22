@@ -1,3 +1,2 @@
 "archivo: code2.txt"
-"segunda modificación"
-"segundo intento de push"
+
